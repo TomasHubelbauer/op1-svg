@@ -116,6 +116,7 @@ window.addEventListener('load', () => {
   for (let index = 0; index < 14; index++) {
     // TODO: Add round oval shapes
     svg.append(rect({ x: `${50.5 + index * 15.5}mm`, y: '66mm', width: '1.5cm', height: '3.05cm', ...roundBorder }));
+    svg.append(rect({ x: `${50.5 + index * 15.5 + 2.5}mm`, y: '68.5mm', width: '1cm', height: '2.5cm', rx: '5mm', stroke: '#aaa', ...fill, ...strokeWidth }));
   }
 
   // Mic
