@@ -1,276 +1,582 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="28.45cm" height="10.15cm">
-  <rect x=".1mm" y=".1mm" width="28.25cm" height="9.95cm" rx="4mm" fill="#eee" stroke="#222" stroke-width=".1mm"></rect>
-  <rect x="4mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="8mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="8mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="8mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="8mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="8mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="8mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="8mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="9.9mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="11.8mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="13.7mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="15.6mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="17.5mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="19.4mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="21.299999999999997mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="23.2mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="25.099999999999998mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="27mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="28.9mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="30.799999999999997mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="30.799999999999997mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="30.799999999999997mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="30.799999999999997mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="30.799999999999997mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="30.799999999999997mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="30.799999999999997mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <rect x="35mm" y="4mm" width="3.05cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="42.5mm" cy="11.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <ellipse cx="44.5mm" cy="13.5mm" rx="1mm" ry="1mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="35mm" y="19.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="42.5mm" cy="27mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="50.5mm" y="19.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="58mm" cy="27mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="66.4mm" y="4.3mm" width="60.7mm" height="2.98cm" rx="1mm" stroke="#000" stroke-width="1mm" fill="#333"></rect><text x="96.75mm" y="22mm" text-anchor="middle" fill="#eee" font-size="6mm" font-family="sans-serif">😍 SVG OP-1 🎛️</text>
-  <rect x="128mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="143.7mm" cy="19.7mm" rx="9mm" ry="9mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <ellipse cx="143.7mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="#C7CEEA" stroke-width=".25mm"></ellipse>
-  <rect x="140.2mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(780.275deg);"></rect>
-  <rect x="159.05mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="174.75mm" cy="19.7mm" rx="9mm" ry="9mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <ellipse cx="174.75mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="#B5EAD7" stroke-width=".25mm"></ellipse>
-  <rect x="171.25mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(-831.84deg);"></rect>
-  <rect x="190.1mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="205.79999999999998mm" cy="19.7mm" rx="9mm" ry="9mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <ellipse cx="205.79999999999998mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="white" stroke-width=".25mm"></ellipse>
-  <rect x="202.29999999999998mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(-1323.82deg);"></rect>
-  <rect x="221.15mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="236.85mm" cy="19.7mm" rx="9mm" ry="9mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <ellipse cx="236.85mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="#FFB7B2" stroke-width=".25mm"></ellipse>
-  <rect x="233.35mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(152.086deg);"></rect>
-  <rect x="252mm" y="19.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="259.5mm" cy="27mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="252mm" y="4mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="259.5mm" cy="11.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="4mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="11.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="19.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="27mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="35mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="42.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="50.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="58mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="66mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="73.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="81.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="89mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="97mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="104.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="112.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="120mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="128mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="135.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="143.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="151mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="159mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="166.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="174.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="182mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="190mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="197.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="205.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="213mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="221mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="228.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="236.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="244mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="252mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="259.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="4mm" y="50.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="11.5mm" cy="58mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="4mm" y="66mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="11.5mm" cy="73.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="4mm" y="81.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="11.5mm" cy="89mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="19.5mm" y="50.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="27mm" cy="58mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="19.5mm" y="66mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="27mm" cy="73.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="19.5mm" y="81.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="27mm" cy="89mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="35mm" y="50.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="42.5mm" cy="58mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="35mm" y="66mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="42.5mm" cy="73.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="35mm" y="81.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="42.5mm" cy="89mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm"></ellipse>
-  <rect x="50.5mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="65.5mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="73.8mm" y="50.5mm" width="14.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="81.3mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="89.1mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="96.6mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="112.39999999999999mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="127.39999999999999mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="135.7mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="143.2mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="159mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="174mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="182.3mm" y="50.5mm" width="14.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="189.8mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="197.60000000000002mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="205.10000000000002mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="220.90000000000003mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="235.90000000000003mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="244.20000000000005mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="251.70000000000005mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333"></ellipse>
-  <rect x="50.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="66mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="81.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="97mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="112.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="128mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="143.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="159mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="174.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="190mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="205.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="221mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="236.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <rect x="252mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm"></rect>
-  <ellipse cx="275.5mm" cy="11mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="277.5mm" cy="11mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="275.5mm" cy="13mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="277.5mm" cy="13mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="276.5mm" cy="37mm" rx=".5mm" ry=".5mm" fill="red" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="276.5mm" cy="39mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="276.5mm" cy="41mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="276.5mm" cy="43mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm"></ellipse>
-  <ellipse cx="276.5mm" cy="45mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm"></ellipse><text x="27.75cm" y="74mm" fill="#666" font-size="6mm" style="font-family: sans-serif; writing-mode: sideways-lr;">OP-1</text>
+<rect x=".1mm" y=".1mm" width="28.25cm" height="9.95cm" rx="4mm" fill="#eee" stroke="#222" stroke-width=".1mm">
+</rect>
+<rect x="4mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="8mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="8mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="8mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="8mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="8mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="8mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="8mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="9.9mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="11.8mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="13.7mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="15.6mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="17.5mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="19.4mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="21.299999999999997mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="23.2mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="25.099999999999998mm" cy="30.799999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="27mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="9.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="11.8mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="27mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="28.9mm" cy="28.9mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="30.799999999999997mm" cy="13.7mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="30.799999999999997mm" cy="15.6mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="30.799999999999997mm" cy="17.5mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="30.799999999999997mm" cy="19.4mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="30.799999999999997mm" cy="21.299999999999997mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="30.799999999999997mm" cy="23.2mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="30.799999999999997mm" cy="25.099999999999998mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<rect x="35mm" y="4mm" width="3.05cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="42.5mm" cy="11.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="44.5mm" cy="13.5mm" rx="1mm" ry="1mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="35mm" y="19.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="42.5mm" cy="27mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="50.5mm" y="19.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="58mm" cy="27mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="66.4mm" y="4.3mm" width="60.7mm" height="2.98cm" rx="1mm" stroke="#000" stroke-width="1mm" fill="#333">
+</rect>
+<text x="96.75mm" y="22mm" text-anchor="middle" fill="#eee" font-size="6mm" font-family="sans-serif">
+😍 SVG OP-1 🎛️</text>
+<rect x="128mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="143.7mm" cy="19.7mm" rx="9mm" ry="9mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="143.7mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="#C7CEEA" stroke-width=".25mm">
+</ellipse>
+<rect x="140.2mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(-194.025deg);">
+</rect>
+<rect x="159.05mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="174.75mm" cy="19.7mm" rx="9mm" ry="9mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="174.75mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="#B5EAD7" stroke-width=".25mm">
+</ellipse>
+<rect x="171.25mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(-125.02deg);">
+</rect>
+<rect x="190.1mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="205.79999999999998mm" cy="19.7mm" rx="9mm" ry="9mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="205.79999999999998mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="white" stroke-width=".25mm">
+</ellipse>
+<rect x="202.29999999999998mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(1455.17deg);">
+</rect>
+<rect x="221.15mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="236.85mm" cy="19.7mm" rx="9mm" ry="9mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="236.85mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="#FFB7B2" stroke-width=".25mm">
+</ellipse>
+<rect x="233.35mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(1859.01deg);">
+</rect>
+<rect x="252mm" y="19.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="259.5mm" cy="27mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="252mm" y="4mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="259.5mm" cy="11.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="4mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="11.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="19.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="27mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="35mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="42.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="50.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="58mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="66mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="73.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="81.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="89mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="97mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="104.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="112.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="120mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="128mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="135.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="143.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="151mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="159mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="166.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="174.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="182mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="190mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="197.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="205.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="213mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="221mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="228.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="236.5mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="244mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="252mm" y="35mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="259.5mm" cy="42.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="4mm" y="50.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="11.5mm" cy="58mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="4mm" y="66mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="11.5mm" cy="73.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="4mm" y="81.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="11.5mm" cy="89mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="19.5mm" y="50.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="27mm" cy="58mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="19.5mm" y="66mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="27mm" cy="73.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="19.5mm" y="81.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="27mm" cy="89mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="35mm" y="50.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="42.5mm" cy="58mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="35mm" y="66mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="42.5mm" cy="73.5mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="35mm" y="81.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="42.5mm" cy="89mm" rx="5mm" ry="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</ellipse>
+<rect x="50.5mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="65.5mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="73.8mm" y="50.5mm" width="14.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="81.3mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="89.1mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="96.6mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="112.39999999999999mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="127.39999999999999mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="135.7mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="143.2mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="159mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="174mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="182.3mm" y="50.5mm" width="14.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="189.8mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="197.60000000000002mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="205.10000000000002mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="220.90000000000003mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="235.90000000000003mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="244.20000000000005mm" y="50.5mm" width="22.7mm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<ellipse cx="251.70000000000005mm" cy="58mm" rx="5mm" ry="5mm" fill="#333" stroke="#333">
+</ellipse>
+<rect x="50.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="53mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="66mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="68.5mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="81.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="84mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="97mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="99.5mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="112.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="115mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="128mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="130.5mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="143.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="146mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="159mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="161.5mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="174.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="177mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="190mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="192.5mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="205.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="208mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="221mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="223.5mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="236.5mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="239mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<rect x="252mm" y="66mm" width="1.5cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
+</rect>
+<rect x="254.5mm" y="68.5mm" width="1cm" height="2.5cm" rx="5mm" stroke="#aaa" fill="none" stroke-width=".25mm">
+</rect>
+<ellipse cx="275.5mm" cy="11mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="277.5mm" cy="11mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="275.5mm" cy="13mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="277.5mm" cy="13mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="276.5mm" cy="37mm" rx=".5mm" ry=".5mm" fill="red" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="276.5mm" cy="39mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="276.5mm" cy="41mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="276.5mm" cy="43mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<ellipse cx="276.5mm" cy="45mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
+</ellipse>
+<text x="27.75cm" y="74mm" fill="#666" font-size="6mm" style="font-family: sans-serif; writing-mode: sideways-lr;">
+OP-1</text>
 </svg>
