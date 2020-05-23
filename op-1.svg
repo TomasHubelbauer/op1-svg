@@ -325,7 +325,7 @@
 </ellipse>
 <ellipse cx="143.7mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="#C7CEEA" stroke-width=".25mm">
 </ellipse>
-<rect x="140.2mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(-194.025deg);">
+<rect x="140.2mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(-616.459deg);">
 </rect>
 <rect x="159.05mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
 </rect>
@@ -333,7 +333,7 @@
 </ellipse>
 <ellipse cx="174.75mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="#B5EAD7" stroke-width=".25mm">
 </ellipse>
-<rect x="171.25mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(-125.02deg);">
+<rect x="171.25mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(-1319.95deg);">
 </rect>
 <rect x="190.1mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
 </rect>
@@ -341,7 +341,7 @@
 </ellipse>
 <ellipse cx="205.79999999999998mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="white" stroke-width=".25mm">
 </ellipse>
-<rect x="202.29999999999998mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(1455.17deg);">
+<rect x="202.29999999999998mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(1734.31deg);">
 </rect>
 <rect x="221.15mm" y="4mm" width="3.05cm" height="3.05cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
 </rect>
@@ -349,7 +349,7 @@
 </ellipse>
 <ellipse cx="236.85mm" cy="19.7mm" rx="5mm" ry="5mm" stroke="#aaa" fill="#FFB7B2" stroke-width=".25mm">
 </ellipse>
-<rect x="233.35mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(1859.01deg);">
+<rect x="233.35mm" y="18.7mm" width="7mm" height="2mm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm" style="transform-box: fill-box; transform-origin: center center 0px; transform: rotate(1487.52deg);">
 </rect>
 <rect x="252mm" y="19.5mm" width="1.5cm" height="1.5cm" rx="1mm" fill="none" stroke="#333" stroke-width=".25mm">
 </rect>
@@ -567,15 +567,15 @@
 </ellipse>
 <ellipse cx="277.5mm" cy="13mm" rx=".5mm" ry=".5mm" fill="#333" stroke="#333" stroke-width=".25mm">
 </ellipse>
-<ellipse cx="276.5mm" cy="37mm" rx=".5mm" ry=".5mm" fill="red" stroke="#333" stroke-width=".25mm">
+<ellipse cx="276.5mm" cy="38mm" rx=".5mm" ry=".5mm" fill="red" stroke="#333" stroke-width=".25mm">
 </ellipse>
-<ellipse cx="276.5mm" cy="39mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
+<ellipse cx="276.5mm" cy="40mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
 </ellipse>
-<ellipse cx="276.5mm" cy="41mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
+<ellipse cx="276.5mm" cy="42mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
 </ellipse>
-<ellipse cx="276.5mm" cy="43mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
+<ellipse cx="276.5mm" cy="44mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
 </ellipse>
-<ellipse cx="276.5mm" cy="45mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
+<ellipse cx="276.5mm" cy="46mm" rx=".5mm" ry=".5mm" fill="lime" stroke="#333" stroke-width=".25mm">
 </ellipse>
 <text x="27.75cm" y="74mm" fill="#666" font-size="6mm" style="font-family: sans-serif; writing-mode: sideways-lr;">
 OP-1</text>

@@ -126,11 +126,11 @@ window.addEventListener('load', () => {
   svg.append(ellipse({ cx: '277.5mm', cy: '13mm', rx: '.5mm', ry: '.5mm', fill: '#333', ...stroke, ...strokeWidth }));
 
   // Volume
-  svg.append(ellipse({ cx: '276.5mm', cy: '37mm', rx: '.5mm', ry: '.5mm', fill: 'red', ...stroke, ...strokeWidth }));
-  svg.append(ellipse({ cx: '276.5mm', cy: '39mm', rx: '.5mm', ry: '.5mm', fill: 'lime', ...stroke, ...strokeWidth }));
-  svg.append(ellipse({ cx: '276.5mm', cy: '41mm', rx: '.5mm', ry: '.5mm', fill: 'lime', ...stroke, ...strokeWidth }));
-  svg.append(ellipse({ cx: '276.5mm', cy: '43mm', rx: '.5mm', ry: '.5mm', fill: 'lime', ...stroke, ...strokeWidth }));
-  svg.append(ellipse({ cx: '276.5mm', cy: '45mm', rx: '.5mm', ry: '.5mm', fill: 'lime', ...stroke, ...strokeWidth }));
+  svg.append(ellipse({ cx: '276.5mm', cy: '38mm', rx: '.5mm', ry: '.5mm', fill: 'red', ...stroke, ...strokeWidth }));
+  svg.append(ellipse({ cx: '276.5mm', cy: '40mm', rx: '.5mm', ry: '.5mm', fill: 'lime', ...stroke, ...strokeWidth }));
+  svg.append(ellipse({ cx: '276.5mm', cy: '42mm', rx: '.5mm', ry: '.5mm', fill: 'lime', ...stroke, ...strokeWidth }));
+  svg.append(ellipse({ cx: '276.5mm', cy: '44mm', rx: '.5mm', ry: '.5mm', fill: 'lime', ...stroke, ...strokeWidth }));
+  svg.append(ellipse({ cx: '276.5mm', cy: '46mm', rx: '.5mm', ry: '.5mm', fill: 'lime', ...stroke, ...strokeWidth }));
 
   const text = element('text', { x: '27.75cm', y: '74mm', fill: '#666', 'font-size': '6mm', style: 'font-family: sans-serif; writing-mode: sideways-lr;' });
   text.textContent = 'OP-1';
