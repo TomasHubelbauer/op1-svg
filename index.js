@@ -134,4 +134,13 @@ window.addEventListener('load', () => {
   const text = element('text', { x: '27.75cm', y: '74mm', fill: '#666', 'font-size': '6mm', style: 'font-family: sans-serif; writing-mode: sideways-lr;' });
   text.textContent = 'OP-1';
   svg.append(text);
+
+  const downloadButton = document.getElementById('downloadButton');
+  downloadButton.addEventListener('click', () => {
+    const text = svg.outerHTML.replace('<svg', '<svg xmlns="http://www.w3.org/2000/svg"').replace(/>/g, '>\n');
+    const a = document.createElement('a');
+    a.download = 'op-1.svg';
+    a.href = `data:image/svg+xml,` + encodeURIComponent(text);
+    a.click();
+  });
 });
